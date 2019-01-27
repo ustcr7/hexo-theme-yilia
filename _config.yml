@@ -2,18 +2,19 @@
 
 menu:
   主页: /
-  随笔: /tags/随笔/
+  devops: /tags/devops/
+  mysql: /tags/mysql/
 
 # SubNav
 subnav:
-  github: "#"
-  weibo: "#"
-  rss: "#"
-  zhihu: "#"
+  github: "https://github.com/ustcr7"
+  #weibo: "#"
+  #rss: "#"
+  #zhihu: "#"
   #qq: "#"
   #weixin: "#"
   #jianshu: "#"
-  #douban: "#"
+  douban: "https://www.douban.com/people/chengchao-wu/"
   #segmentfault: "#"
   #bilibili: "#"
   #acfun: "#"
